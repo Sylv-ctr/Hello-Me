@@ -1,4 +1,4 @@
 # Hello-Me
 
-It's my first step on GitHub, i want to develop some project and share it.
-So fun :)
+I'm a french student who want to work in the video game industry or mobile development :)
+I'll share here my diferent projects 
